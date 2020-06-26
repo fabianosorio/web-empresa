@@ -1,0 +1,3 @@
+Pillows==7.1.2
+django==2.1.5
+django-ckeditor==5.9.0
